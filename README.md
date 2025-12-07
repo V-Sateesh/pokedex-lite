@@ -1,4 +1,4 @@
-# Pokédex Lite
+# Pokedex Lite
 
 Simple React + TypeScript + Vite web app that lists Pokémon from the PokéAPI with:
 
